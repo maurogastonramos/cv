@@ -4,25 +4,25 @@
       <img
         class="absolute img-1 animation-options"
         width="400"
-        src="@/assets/heart-particle-3.png"
+        src="~/assets/heart-particle-3.png"
         alt=""
       />
       <img
         class="absolute img-2 animation-options"
         width="400"
-        src="@/assets/heart-particle-2.png"
+        :src="require('~/assets/heart-particle-2.png')"
         alt=""
       />
       <img
         class="absolute img-3 animation-options"
         width="400"
-        src="@/assets/heart-particle-3.png"
+        src="~/assets/heart-particle-3.png"
         alt=""
       />
       <img
         class="absolute img-4 animation-options"
         width="400"
-        src="@/assets/heart-particle-2.png"
+        src="~/assets/heart-particle-2.png"
         alt=""
       />
     </div>

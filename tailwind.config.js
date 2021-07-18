@@ -4,8 +4,8 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: theme => ({
-        flower: "url('@/assets/header-bg.jpg')",
-        profile: "url('@/assets/profile-pic.png')"
+        flower: "url('~/assets/header-bg.jpg')",
+        profile: "url('~/assets/profile-pic.png')"
       })
     }
   },
