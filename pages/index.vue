@@ -11,3 +11,9 @@ import Vue from "vue";
 
 export default Vue.extend({});
 </script>
+
+<style>
+body {
+  background: #eeb8e0;
+}
+</style>

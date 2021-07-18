@@ -47,7 +47,7 @@ export default {};
     opacity: 0;
   }
   50% {
-    opacity: 0.7;
+    opacity: 1;
   }
   100% {
     opacity: 0;
